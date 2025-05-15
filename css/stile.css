@@ -1,0 +1,25 @@
+.qwe {
+    width: 300px;
+}
+.btn {
+    height: 50px;
+    width: 200px;
+    background-image:url(../img/q.jpg);
+    text-decoration: none;
+    color: black;
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    padding: 5 50px;
+}
+
+
+body {background-image:url(../img/ккк.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.navig{
+    display: flex;
+    gap: 20px;
+}
